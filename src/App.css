@@ -197,6 +197,7 @@ textarea {
 .my-1 {
   margin-top: var(--spacing-one);
   margin-bottom: var(--spacing-one);
+
 }
 
 .my-2 {
@@ -205,8 +206,7 @@ textarea {
 }
 
 .my-5 {
-  margin-top: var(--spacing-five);
-  margin-bottom: var(--spacing-five);
+  justify-content: center;
 }
 
 .px-1 {
