@@ -16,7 +16,7 @@ function Nav() {
         <header data-testid="header" className="flex-row px-1">
             <h2>
                 <a href="/">
-                    <span role="img" aria-label="Header"></span> Peter Martinez Web Development
+                    <span role="img" aria-label="header"></span> Peter Martinez Software Developer
                 </a>
             </h2>
             <nav>
@@ -26,6 +26,7 @@ function Nav() {
                             About me
                         </a>
                     </li>
+
                     <li className={"mx-2"}>
                         <span onClick={() => handleClick()}>
                             Contact
